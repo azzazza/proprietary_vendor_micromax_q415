@@ -1,0 +1,1 @@
+# vendor/micromax/q415/
