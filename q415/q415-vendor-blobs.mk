@@ -579,6 +579,7 @@ PRODUCT_COPY_FILES += \
     vendor/micromax/q415/proprietary/bin/serialnoread:system/bin/serialnoread \
     vendor/micromax/q415/proprietary/bin/time_daemon:system/bin/time_daemon \
     vendor/micromax/q415/proprietary/bin/vm_bms:system/bin/vm_bms \
+	vendor/micromax/q415/proprietary/bin/mpdecision:system/bin/mpdecision \
     vendor/micromax/q415/proprietary/etc/acdbdata/QRD/QRD_Bluetooth_cal.acdb:system/etc/acdbdata/QRD/QRD_Bluetooth_cal.acdb \
     vendor/micromax/q415/proprietary/etc/acdbdata/QRD/QRD_General_cal.acdb:system/etc/acdbdata/QRD/QRD_General_cal.acdb \
     vendor/micromax/q415/proprietary/etc/acdbdata/QRD/QRD_Global_cal.acdb:system/etc/acdbdata/QRD/QRD_Global_cal.acdb \
@@ -725,4 +726,5 @@ PRODUCT_COPY_FILES += \
     vendor/micromax/q415/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
     vendor/micromax/q415/proprietary/vendor/lib/soundfx/libqcbassboost.so:system/vendor/lib/soundfx/libqcbassboost.so \
     vendor/micromax/q415/proprietary/vendor/lib/soundfx/libqcreverb.so:system/vendor/lib/soundfx/libqcreverb.so \
+    vendor/micromax/q415/proprietary/lib/libboringssl-compat.so:system/lib/libboringssl-compat.so \
     vendor/micromax/q415/proprietary/vendor/lib/soundfx/libqcvirt.so:system/vendor/lib/soundfx/libqcvirt.so
